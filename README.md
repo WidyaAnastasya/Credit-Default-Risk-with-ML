@@ -1,7 +1,7 @@
 # Credit-Default-Risk-with-Machine-Learning
 
 ## Project Overview 
-This is my capstone project in Big Data and Business Intelligence Program at Celerates. The goal of this project is to use a machine learning classifier model to generate data on the probability of default for credit consumers, and then analyze this data to gain insights. This project is an end-to-end process that focuses on machine learning consisting of data preparation, exploratory data analysis, modeling and lastly evaluation. 
+This is my capstone project in Big Data and Business Intelligence Program at Celerates. The goal of this project is to use a machine learning classifier model to generate data on the probability of default for credit borrowers, and then analyze this data to gain insights. This project is an end-to-end process that focuses on machine learning consisting of data preparation, exploratory data analysis, modeling and lastly evaluation. 
 
 ## Background 
 Most of the world's credit is issued by banks, which amounts to billions of dollars. Naturally, this comes with significant risks. If a bank issues too many bad loans (defaults), it may go bankrupt, meaning that its liabilities exceed its assets. There is also the risk of the bank's license being revoked. To mitigate these risks, banks could use machine learning to build classification models that group loan applicants into low- and high-risk categories. This allows banks to avoid making loans to borrowers who are more likely to default. Machine learning algorithms are fast and efficient, which is important for banks that need to process a large number of loan applications quickly.
