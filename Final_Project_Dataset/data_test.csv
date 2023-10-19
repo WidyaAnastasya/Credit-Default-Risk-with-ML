@@ -1,0 +1,201 @@
+Id_customer,JK,KepemilikanMobil,KepemilikanProperti,JmlAnak,Pendapatan,TipePendapatan,TingkatPendidikan,StatusKeluarga,TipeRumah,FlagMobile,FlagWorkPhone,FlagPhone,Email,Pekerjaan,JmlAnggotaKeluarga,Age,Experience
+5142248,Perempuan,Tidak,Ya,0,225000.0,PNS,Graduate,Menikah,Rumah pribadi,1,0,0,0,Private service staff,2.0,54.0,6.0
+5036925,Perempuan,Ya,Ya,0,157500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,1,1,1,Core staff,2.0,33.0,8.0
+5126080,Perempuan,Tidak,Ya,1,112500.0,PNS,Graduate,Menikah,Rumah pribadi,1,0,0,0,Managers,3.0,41.0,7.0
+5088887,Perempuan,Tidak,Ya,0,171000.0,Bekerja,Graduate,Belum Menikah,Sewa Apartemen,1,0,0,0,Laborers,1.0,46.0,2.0
+5022156,Perempuan,Ya,Ya,2,180000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,1,1,,4.0,32.0,8.0
+5067448,Perempuan,Ya,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,63.0,1001.0
+5139764,Laki-laki,Ya,Ya,0,337500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,65.0,21.0
+5024233,Perempuan,Tidak,Ya,0,47250.0,Pensioner,Graduate,Menikah,Apartemen Pribadi,1,0,1,0,,2.0,59.0,1001.0
+5010296,Perempuan,Tidak,Ya,0,135000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Sales staff,2.0,41.0,5.0
+5125896,Perempuan,Ya,Ya,0,675000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,60.0,1001.0
+5095195,Perempuan,Tidak,Ya,0,112500.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,1,0,Medicine staff,1.0,43.0,7.0
+5008912,Perempuan,Tidak,Ya,0,297000.0,Asosiasi komersial,Graduate,Belum Menikah,Sewa Apartemen,1,0,0,0,Laborers,1.0,43.0,9.0
+5113208,Perempuan,Tidak,Ya,0,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,38.0,17.0
+5037103,Perempuan,Tidak,Ya,0,193500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,2.0,58.0,20.0
+5117538,Perempuan,Ya,Tidak,1,157500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Sales staff,3.0,41.0,3.0
+5143237,Perempuan,Ya,Ya,1,1575000.0,Asosiasi komersial,Postgraduate,Belum Menikah,Rumah pribadi,1,0,0,0,Managers,2.0,28.0,7.0
+5010956,Laki-laki,Ya,Ya,0,337500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Sales staff,2.0,40.0,4.0
+5033835,Perempuan,Tidak,Ya,0,157500.0,Pensioner,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,,1.0,54.0,1001.0
+5097183,Perempuan,Ya,Ya,0,135000.0,Bekerja,Graduate,Menikah,Rumah orang tua,1,0,0,0,Core staff,2.0,41.0,18.0
+5126112,Laki-laki,Tidak,Tidak,0,180000.0,Bekerja,Undergraduate,Menikah,Apartemen kantor,1,1,0,0,Managers,2.0,44.0,11.0
+5149761,Perempuan,Tidak,Ya,1,180000.0,PNS,Graduate,Belum Menikah,Rumah pribadi,1,0,1,0,Medicine staff,2.0,37.0,11.0
+5062243,Perempuan,Ya,Tidak,0,315000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Managers,2.0,53.0,11.0
+5114361,Perempuan,Ya,Tidak,0,337500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Laborers,2.0,47.0,2.0
+5023528,Perempuan,Tidak,Ya,0,274500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,2.0,56.0,19.0
+5113895,Laki-laki,Ya,Tidak,0,162000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,1,Security staff,2.0,53.0,11.0
+5115507,Perempuan,Tidak,Tidak,1,81000.0,Bekerja,Graduate,Menikah,Rumah orang tua,1,1,1,0,Core staff,3.0,35.0,9.0
+5045845,Perempuan,Ya,Ya,2,315000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah orang tua,1,0,0,0,Managers,4.0,35.0,4.0
+5148869,Perempuan,Tidak,Ya,0,126000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,60.0,1001.0
+5137314,Perempuan,Tidak,Tidak,1,135000.0,PNS,Postgraduate,Menikah,Rumah pribadi,1,1,0,0,Managers,3.0,26.0,3.0
+5028817,Perempuan,Tidak,Ya,0,450000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,2.0,48.0,9.0
+5029618,Perempuan,Tidak,Ya,0,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Waiters/barmen staff,2.0,44.0,3.0
+5142829,Perempuan,Tidak,Tidak,0,157500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Cooking staff,2.0,46.0,8.0
+5067158,Laki-laki,Ya,Tidak,0,157500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,1,0,1,Laborers,1.0,32.0,10.0
+5053092,Laki-laki,Tidak,Ya,1,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,0,Laborers,3.0,38.0,3.0
+5118450,Perempuan,Tidak,Tidak,1,76500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Sales staff,3.0,28.0,2.0
+5089141,Perempuan,Ya,Tidak,0,202500.0,Asosiasi komersial,Graduate,Menikah,Rumah orang tua,1,0,1,0,,2.0,39.0,15.0
+5024922,Laki-laki,Tidak,Ya,0,180000.0,Bekerja,Undergraduate,Belum Menikah,Rumah pribadi,1,0,0,0,Drivers,1.0,40.0,3.0
+5024745,Laki-laki,Tidak,Ya,0,225000.0,Asosiasi komersial,Postgraduate,Belum Menikah,Rumah pribadi,1,0,0,0,Laborers,1.0,39.0,19.0
+5137532,Laki-laki,Tidak,Tidak,0,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Drivers,2.0,41.0,10.0
+5143250,Perempuan,Tidak,Tidak,2,108000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,1,1,0,Core staff,4.0,37.0,4.0
+5045712,Perempuan,Ya,Ya,1,202500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,3.0,45.0,7.0
+5142772,Laki-laki,Ya,Tidak,2,184500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,1,0,0,Drivers,4.0,34.0,3.0
+5067233,Perempuan,Ya,Ya,0,391500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Core staff,2.0,47.0,20.0
+5044971,Perempuan,Tidak,Ya,0,180000.0,PNS,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,47.0,12.0
+5115566,Laki-laki,Tidak,Ya,0,126000.0,Pensioner,Graduate,Menikah,Sewa Apartemen,1,0,0,0,,2.0,45.0,1001.0
+5105536,Laki-laki,Ya,Tidak,0,202500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Drivers,2.0,28.0,6.0
+5065816,Perempuan,Tidak,Ya,0,112500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,1,0,0,Cooking staff,1.0,52.0,27.0
+5029038,Perempuan,Tidak,Ya,0,90000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,64.0,1001.0
+5149137,Perempuan,Tidak,Ya,0,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,35.0,7.0
+5053078,Perempuan,Tidak,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,58.0,1001.0
+5047747,Perempuan,Tidak,Ya,2,157500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Sales staff,4.0,28.0,5.0
+5105812,Perempuan,Tidak,Tidak,0,202500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,55.0,1001.0
+5022802,Perempuan,Ya,Ya,0,202500.0,Bekerja,Postgraduate,Cerai,Rumah pribadi,1,0,0,0,Managers,1.0,33.0,4.0
+5137105,Perempuan,Ya,Tidak,0,360000.0,PNS,Graduate,Menikah,Rumah pribadi,1,1,1,0,Medicine staff,2.0,51.0,0.0
+5024816,Perempuan,Tidak,Ya,0,360000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,61.0,1001.0
+5036083,Perempuan,Tidak,Ya,1,85500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Waiters/barmen staff,3.0,45.0,2.0
+5046440,Laki-laki,Ya,Ya,0,157500.0,PNS,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,Core staff,2.0,46.0,1.0
+5125898,Perempuan,Ya,Ya,0,675000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,60.0,1001.0
+5009292,Perempuan,Tidak,Tidak,0,130500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,0,Cleaning staff,2.0,41.0,13.0
+5062720,Perempuan,Ya,Ya,1,360000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,,3.0,42.0,6.0
+5142104,Perempuan,Tidak,Tidak,0,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,28.0,4.0
+5029213,Perempuan,Tidak,Ya,0,180000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,61.0,1001.0
+5092072,Perempuan,Tidak,Tidak,1,112500.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,2.0,37.0,7.0
+5087879,Perempuan,Tidak,Tidak,0,234000.0,PNS,Postgraduate,Menikah,Rumah pribadi,1,0,0,1,Core staff,2.0,60.0,14.0
+5145905,Perempuan,Tidak,Ya,0,193500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,2.0,58.0,20.0
+5036396,Perempuan,Ya,Ya,0,112500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Cooking staff,2.0,37.0,3.0
+5024809,Laki-laki,Tidak,Tidak,1,112500.0,Bekerja,Graduate,Cerai,Rumah orang tua,1,0,0,0,Laborers,2.0,42.0,4.0
+5143077,Laki-laki,Tidak,Tidak,0,90000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Drivers,2.0,40.0,1.0
+5132371,Perempuan,Tidak,Ya,0,175500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,57.0,1001.0
+5033898,Laki-laki,Tidak,Ya,0,126000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Laborers,2.0,28.0,1.0
+5067650,Perempuan,Tidak,Ya,0,171000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,55.0,1001.0
+5118029,Perempuan,Tidak,Tidak,0,315000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,1,0,High skill tech staff,2.0,37.0,9.0
+5067078,Laki-laki,Tidak,Ya,0,148500.0,Pensioner,Graduate,Cerai,Rumah pribadi,1,0,1,0,,1.0,51.0,1001.0
+5112983,Perempuan,Tidak,Ya,0,202500.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,1,1,0,Cleaning staff,1.0,50.0,26.0
+5029328,Laki-laki,Tidak,Ya,0,112500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,62.0,1001.0
+5139991,Perempuan,Tidak,Ya,1,121500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,1,0,,3.0,51.0,1001.0
+5065742,Perempuan,Ya,Ya,0,225000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,60.0,1001.0
+5096020,Perempuan,Ya,Tidak,1,225000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,1,1,0,Managers,2.0,42.0,11.0
+5085698,Perempuan,Tidak,Ya,0,121500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Cooking staff,2.0,56.0,0.0
+5118288,Perempuan,Tidak,Tidak,0,360000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,Core staff,2.0,47.0,17.0
+5023079,Perempuan,Tidak,Ya,0,81000.0,Pensioner,Undergraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,60.0,1001.0
+5058385,Laki-laki,Tidak,Ya,0,166500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,58.0,1001.0
+5096619,Perempuan,Tidak,Tidak,1,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,0,Laborers,3.0,40.0,4.0
+5009481,Perempuan,Tidak,Tidak,0,180000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,36.0,12.0
+5009428,Laki-laki,Tidak,Tidak,0,198000.0,Bekerja,Graduate,Belum Menikah,Rumah orang tua,1,1,0,0,Laborers,1.0,24.0,3.0
+5089727,Perempuan,Tidak,Tidak,0,94500.0,Pensioner,Graduate,Cerai,Rumah pribadi,1,0,0,0,,1.0,65.0,1001.0
+5126126,Perempuan,Ya,Tidak,0,72000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Medicine staff,2.0,42.0,1.0
+5045465,Perempuan,Tidak,Tidak,0,270000.0,Bekerja,Postgraduate,Belum Menikah,Sewa Apartemen,1,1,0,0,Medicine staff,1.0,38.0,5.0
+5150020,Laki-laki,Ya,Ya,1,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,,3.0,40.0,9.0
+5058352,Perempuan,Tidak,Ya,0,99000.0,Pensioner,Postgraduate,Cerai,Rumah pribadi,1,0,0,0,,1.0,67.0,1001.0
+5113047,Perempuan,Tidak,Ya,1,180000.0,Bekerja,Postgraduate,Cerai,Rumah pribadi,1,0,0,1,,2.0,45.0,7.0
+5089163,Perempuan,Ya,Tidak,0,225000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,1,1,0,Accountants,2.0,56.0,7.0
+5058377,Perempuan,Tidak,Ya,1,225000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Drivers,3.0,32.0,3.0
+5046369,Perempuan,Tidak,Ya,0,120150.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Security staff,1.0,61.0,3.0
+5053674,Perempuan,Ya,Ya,0,225000.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,0,1,0,High skill tech staff,1.0,33.0,4.0
+5114015,Laki-laki,Ya,Tidak,0,225000.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Drivers,1.0,22.0,3.0
+5048332,Laki-laki,Ya,Ya,0,225000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,24.0,3.0
+5118451,Perempuan,Tidak,Tidak,1,76500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Sales staff,3.0,28.0,2.0
+5096180,Perempuan,Tidak,Tidak,0,270000.0,Bekerja,Postgraduate,Belum Menikah,Rumah pribadi,1,0,0,0,Laborers,1.0,43.0,8.0
+5053107,Laki-laki,Ya,Ya,0,315000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Drivers,2.0,40.0,2.0
+5053582,Perempuan,Tidak,Ya,2,157500.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,4.0,33.0,3.0
+5132396,Perempuan,Tidak,Ya,3,135000.0,Bekerja,Graduate,Belum Menikah,Apartemen Pribadi,1,0,1,0,,4.0,38.0,12.0
+5149110,Laki-laki,Ya,Ya,0,90000.0,Asosiasi komersial,Graduate,Menikah,Rumah orang tua,1,0,0,0,Sales staff,2.0,27.0,1.0
+5125232,Perempuan,Tidak,Ya,2,157500.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,4.0,38.0,0.0
+5105422,Perempuan,Tidak,Ya,0,193500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,,1.0,51.0,27.0
+5113266,Laki-laki,Ya,Ya,1,450000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,1,Managers,3.0,41.0,4.0
+5137515,Laki-laki,Tidak,Tidak,1,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Laborers,3.0,28.0,8.0
+5117340,Perempuan,Tidak,Tidak,0,225000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,27.0,0.0
+5009894,Perempuan,Tidak,Tidak,0,180000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,61.0,1001.0
+5116549,Perempuan,Tidak,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,58.0,1001.0
+5023420,Perempuan,Ya,Ya,1,225000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,Managers,3.0,45.0,7.0
+5126082,Perempuan,Tidak,Ya,1,112500.0,PNS,Graduate,Menikah,Rumah pribadi,1,0,0,0,Managers,3.0,41.0,7.0
+5025948,Perempuan,Tidak,Ya,0,130500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Core staff,2.0,37.0,15.0
+5067783,Laki-laki,Ya,Tidak,2,450000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,1,Drivers,4.0,41.0,20.0
+5061503,Perempuan,Tidak,Ya,0,202500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,59.0,1001.0
+5025181,Perempuan,Tidak,Tidak,0,270000.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,High skill tech staff,1.0,63.0,7.0
+5028617,Laki-laki,Tidak,Ya,1,135000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,1,1,0,High skill tech staff,3.0,26.0,5.0
+5095061,Perempuan,Tidak,Ya,0,225000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,58.0,1001.0
+5125856,Perempuan,Tidak,Tidak,0,234000.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,1,0,0,Cleaning staff,1.0,49.0,4.0
+5095102,Perempuan,Tidak,Ya,2,202500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,High skill tech staff,4.0,38.0,9.0
+5066951,Perempuan,Tidak,Ya,0,90000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,63.0,1001.0
+5112840,Perempuan,Tidak,Ya,1,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Medicine staff,3.0,33.0,4.0
+5145707,Perempuan,Tidak,Ya,2,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Security staff,4.0,35.0,12.0
+5047764,Perempuan,Tidak,Tidak,0,135000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Cooking staff,2.0,44.0,0.0
+5146056,Perempuan,Tidak,Ya,0,157500.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,0,0,Laborers,1.0,53.0,1.0
+5100304,Perempuan,Ya,Ya,0,90000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,1,1,0,Sales staff,2.0,46.0,9.0
+5065498,Perempuan,Ya,Ya,0,270000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,1,0,Accountants,2.0,51.0,16.0
+5091361,Perempuan,Tidak,Ya,0,90000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,1,,2.0,61.0,1001.0
+5069077,Perempuan,Tidak,Ya,1,202500.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,1,Accountants,3.0,39.0,8.0
+5065815,Perempuan,Tidak,Ya,0,112500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,1,0,0,Cooking staff,1.0,52.0,27.0
+5079011,Laki-laki,Ya,Ya,2,270000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,1,0,Managers,4.0,41.0,3.0
+5116644,Perempuan,Tidak,Ya,0,261000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,55.0,7.0
+5024130,Perempuan,Tidak,Ya,1,135000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,0,0,Sales staff,2.0,43.0,1.0
+5067819,Laki-laki,Tidak,Ya,0,180000.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Sales staff,1.0,49.0,3.0
+5126522,Laki-laki,Ya,Tidak,0,157500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,Laborers,2.0,56.0,6.0
+5105079,Perempuan,Ya,Ya,0,360000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,49.0,7.0
+5105337,Laki-laki,Ya,Tidak,0,225000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,39.0,1.0
+5029333,Perempuan,Tidak,Tidak,0,225000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,0,0,Sales staff,1.0,33.0,4.0
+5116251,Perempuan,Tidak,Ya,0,315000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Medicine staff,2.0,61.0,41.0
+5056021,Perempuan,Tidak,Ya,1,90000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Cleaning staff,3.0,37.0,9.0
+5046340,Laki-laki,Tidak,Ya,1,180000.0,Bekerja,Undergraduate,Menikah,Rumah pribadi,1,1,0,0,,3.0,29.0,5.0
+5114600,Perempuan,Tidak,Ya,1,180000.0,Asosiasi komersial,Postgraduate,Cerai,Rumah pribadi,1,0,0,1,Managers,2.0,47.0,15.0
+5139823,Laki-laki,Tidak,Ya,0,108000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Laborers,2.0,44.0,20.0
+5090544,Perempuan,Tidak,Ya,0,135000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,63.0,6.0
+5142482,Laki-laki,Ya,Tidak,2,166500.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Core staff,4.0,34.0,3.0
+5113758,Perempuan,Tidak,Ya,1,112500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,1,1,0,Sales staff,3.0,30.0,5.0
+5041531,Perempuan,Ya,Ya,0,135000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,1,1,0,Accountants,2.0,37.0,8.0
+5035963,Perempuan,Tidak,Ya,2,225000.0,PNS,Graduate,Menikah,Rumah pribadi,1,1,0,0,Medicine staff,4.0,36.0,15.0
+5065360,Perempuan,Tidak,Ya,1,216000.0,Bekerja,Postgraduate,Belum Menikah,Rumah pribadi,1,0,1,0,Core staff,2.0,29.0,5.0
+5126242,Perempuan,Tidak,Tidak,0,216000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,1,0,0,Cleaning staff,1.0,55.0,2.0
+5038723,Laki-laki,Ya,Ya,1,270000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,3.0,42.0,1001.0
+5044640,Perempuan,Tidak,Ya,1,126000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,1,,3.0,40.0,12.0
+5149950,Perempuan,Tidak,Ya,0,180000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,1,1,0,High skill tech staff,2.0,61.0,2.0
+5095950,Perempuan,Tidak,Tidak,2,193500.0,Bekerja,Postgraduate,Menikah,Rumah orang tua,1,1,1,0,,4.0,41.0,21.0
+5113480,Perempuan,Ya,Ya,0,225000.0,PNS,Postgraduate,Menikah,Rumah pribadi,1,1,0,0,Managers,2.0,49.0,26.0
+5143446,Perempuan,Tidak,Ya,0,112500.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,1,0,,2.0,64.0,1001.0
+5117416,Perempuan,Ya,Tidak,0,112500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Sales staff,2.0,44.0,10.0
+5132686,Perempuan,Tidak,Ya,0,67500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Medicine staff,2.0,54.0,16.0
+5023985,Laki-laki,Ya,Ya,2,225000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,1,0,Laborers,4.0,27.0,2.0
+5112685,Perempuan,Tidak,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,59.0,1001.0
+5054516,Perempuan,Ya,Ya,1,135000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,3.0,27.0,6.0
+5009046,Perempuan,Tidak,Ya,0,148500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Core staff,2.0,48.0,2.0
+5091545,Perempuan,Tidak,Ya,0,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,0,Laborers,2.0,43.0,9.0
+5099898,Perempuan,Ya,Ya,0,180000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,2.0,37.0,11.0
+5116905,Perempuan,Tidak,Ya,0,90000.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Private service staff,1.0,52.0,4.0
+5033772,Laki-laki,Ya,Ya,0,225000.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,0,0,0,Core staff,2.0,53.0,3.0
+5095863,Perempuan,Tidak,Tidak,0,225000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,0,0,Accountants,1.0,57.0,15.0
+5054013,Perempuan,Ya,Tidak,0,292500.0,Asosiasi komersial,Graduate,Menikah,Rumah pribadi,1,1,0,0,Managers,2.0,55.0,17.0
+5113658,Perempuan,Tidak,Ya,0,225000.0,Pensioner,Graduate,Menikah,Apartemen Pribadi,1,0,0,0,,2.0,65.0,1001.0
+5113335,Laki-laki,Tidak,Ya,0,81000.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Security staff,1.0,58.0,7.0
+5142667,Perempuan,Tidak,Tidak,0,90000.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,Laborers,1.0,42.0,1.0
+5126779,Perempuan,Tidak,Ya,1,112500.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,1,0,Laborers,2.0,49.0,26.0
+5100412,Laki-laki,Tidak,Tidak,0,315000.0,Bekerja,Graduate,Belum Menikah,Sewa Apartemen,1,1,0,0,Drivers,1.0,33.0,2.0
+5022637,Perempuan,Tidak,Ya,0,157500.0,Bekerja,Graduate,Belum Menikah,Apartemen Pribadi,1,0,1,0,,1.0,56.0,5.0
+5048231,Perempuan,Tidak,Tidak,0,90000.0,Bekerja,Graduate,Cerai,Rumah pribadi,1,0,0,0,Laborers,1.0,51.0,27.0
+5091328,Perempuan,Tidak,Ya,0,540000.0,Asosiasi komersial,Graduate,Cerai,Rumah pribadi,1,0,1,0,,1.0,58.0,1.0
+5045131,Perempuan,Tidak,Ya,0,202500.0,Pensioner,Graduate,Cerai,Rumah pribadi,1,0,0,0,,1.0,58.0,1001.0
+5148965,Perempuan,Tidak,Ya,0,90000.0,Bekerja,Graduate,Menikah,Apartemen Pribadi,1,0,0,0,Laborers,2.0,49.0,15.0
+5033951,Laki-laki,Ya,Ya,0,247500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Drivers,2.0,51.0,3.0
+5069384,Perempuan,Tidak,Ya,0,112500.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,Sales staff,2.0,35.0,6.0
+5021539,Perempuan,Ya,Tidak,1,306000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,3.0,26.0,5.0
+5149775,Perempuan,Ya,Ya,0,130500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,0,Laborers,2.0,44.0,26.0
+5068855,Laki-laki,Ya,Ya,1,180000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,3.0,30.0,7.0
+5022004,Laki-laki,Ya,Ya,0,112500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,0,0,,1.0,27.0,4.0
+5061785,Laki-laki,Tidak,Ya,1,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,1,1,Laborers,3.0,39.0,3.0
+5009251,Laki-laki,Ya,Tidak,1,135000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Drivers,3.0,27.0,3.0
+5113368,Perempuan,Tidak,Ya,1,180000.0,Pensioner,Postgraduate,Menikah,Rumah pribadi,1,0,1,0,,3.0,52.0,1001.0
+5026452,Laki-laki,Tidak,Ya,0,90000.0,Asosiasi komersial,Graduate,Belum Menikah,Rumah pribadi,1,1,1,0,Core staff,1.0,34.0,9.0
+5143295,Perempuan,Tidak,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,59.0,1001.0
+5105609,Perempuan,Tidak,Ya,5,157500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,7.0,36.0,9.0
+5066512,Perempuan,Tidak,Ya,0,157500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,0,1,0,Private service staff,1.0,48.0,21.0
+5097163,Perempuan,Tidak,Tidak,1,292500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Medicine staff,3.0,35.0,9.0
+5025003,Perempuan,Tidak,Tidak,0,112500.0,Bekerja,Graduate,Belum Menikah,Rumah pribadi,1,1,1,0,Core staff,1.0,39.0,13.0
+5089438,Perempuan,Tidak,Tidak,0,405000.0,Bekerja,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,45.0,20.0
+5068664,Perempuan,Ya,Ya,0,360000.0,PNS,Postgraduate,Cerai,Rumah pribadi,1,0,0,0,Core staff,1.0,53.0,5.0
+5105368,Laki-laki,Tidak,Ya,0,360000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,1,0,0,Laborers,2.0,50.0,29.0
+5116026,Perempuan,Tidak,Ya,0,135000.0,Pensioner,Graduate,Menikah,Rumah pribadi,1,0,0,0,,2.0,56.0,1001.0
+5067627,Perempuan,Tidak,Tidak,1,67500.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Laborers,3.0,45.0,19.0
+5090052,Laki-laki,Ya,Ya,0,270000.0,Asosiasi komersial,Postgraduate,Menikah,Rumah pribadi,1,0,0,0,Managers,2.0,58.0,5.0
+5023668,Perempuan,Tidak,Ya,0,90000.0,Bekerja,Graduate,Menikah,Rumah pribadi,1,0,0,0,Cooking staff,2.0,45.0,4.0
