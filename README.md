@@ -5,7 +5,7 @@ My capstone project in Big Data and Business Intelligence Program at Celerates.
 
 ## Background 
 
-## Packages Used 
+## Technologies
 
 ## Data
 
