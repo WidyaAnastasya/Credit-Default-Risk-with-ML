@@ -24,5 +24,6 @@ The data preprocessing process consist of:
 
 ## Results 
 1. Machine Learning Model:
-   Three classifier methods were used, namely Decision Tree, KNearest Neighbor, and XGBoost. After modeling, the Decision Tree Classifier was found to have the highest F1 score and accuracy, with values of 0.809 and 0.808, respectively.
-2. Visualizations are carried out using Tableau. For the resulting interactive dashboard and insights **[click here.](https://public.tableau.com/views/CreditRiskAnalysis-EDA/Story1?:language=en-US&publish=y%20es&:display_count=n&:origin=viz_share_link)** 
+Three classifier methods were used, namely Decision Tree, KNearest Neighbor, and XGBoost. After modeling, the Decision Tree Classifier was found to have the highest F1 score and accuracy, with values of 0.809 and 0.808, respectively. Therefore, it was decided to use this model for credit default risk analysis so that it can be applied to the available test data.
+2. Visualizations are carried out using Tableau.
+For the resulting interactive dashboard and insights **[click here.](https://public.tableau.com/views/CreditRiskAnalysis-EDA/Story1?:language=en-US&publish=y%20es&:display_count=n&:origin=viz_share_link)** 
